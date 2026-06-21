@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0.0",
+  "albums": [
+    {
+      "id": "hoc-tap-ren-luyen-ban-tru",
+      "title": "Học tập, rèn luyện và bán trú",
+      "slug": "hoc-tap-ren-luyen-ban-tru",
+      "description": "Không gian hình ảnh giới thiệu tinh thần học tập, sinh hoạt tập thể và nền nếp bán trú của học sinh THCS vùng cao.",
+      "coverImage": "assets/images/crawled/z7103213786157-6d3143896600677d942af280b0c5b1b5-a1701-47a5f044.jpg",
+      "publishedAt": "2026-06-21",
+      "featured": true,
+      "images": [
+        {
+          "id": "hoc-tap-ren-luyen-ban-tru-01",
+          "src": "assets/images/crawled/z7103213786157-6d3143896600677d942af280b0c5b1b5-a1701-47a5f044.jpg",
+          "thumbnail": "assets/images/crawled/z7103213786157-6d3143896600677d942af280b0c5b1b5-a1701-47a5f044.jpg",
+          "alt": "Học sinh Trường PTDTBT THCS Phìn Hồ tham gia hoạt động đội",
+          "caption": "Ảnh hoạt động thực tế đã tải về và lưu cục bộ từ nguồn dữ liệu cũ.",
+          "width": 2048,
+          "height": 1024
+        }
+      ]
+    },
+    {
+      "id": "sinh-hoat-chuyen-de",
+      "title": "Sinh hoạt chuyên đề và phối hợp giáo dục",
+      "slug": "sinh-hoat-chuyen-de",
+      "description": "Hình ảnh sinh hoạt chuyên đề, phối hợp quản lý giáo dục học sinh bán trú và hoạt động của nhà trường.",
+      "coverImage": "assets/images/crawled/z7105760154690-c7574d049d12ae0c9671e4eb16c7f1d3-c761f-c8ec86e7.jpg",
+      "publishedAt": "2026-06-21",
+      "featured": true,
+      "images": [
+        {
+          "id": "sinh-hoat-chuyen-de-01",
+          "src": "assets/images/crawled/z7105760154690-c7574d049d12ae0c9671e4eb16c7f1d3-c761f-c8ec86e7.jpg",
+          "thumbnail": "assets/images/crawled/z7105760154690-c7574d049d12ae0c9671e4eb16c7f1d3-c761f-c8ec86e7.jpg",
+          "alt": "Sinh hoạt chuyên đề tại Trường PTDTBT THCS Phìn Hồ",
+          "caption": "Ảnh tư liệu hoạt động nhà trường đã lưu cục bộ.",
+          "width": 1816,
+          "height": 1024
+        }
+      ]
+    },
+    {
+      "id": "van-ban-phap-ly",
+      "title": "Cơ sở pháp lý của nhà trường",
+      "slug": "van-ban-phap-ly",
+      "description": "Ảnh preview trang đầu Quyết định thành lập/tách trường đã được lưu nội bộ.",
+      "coverImage": "assets/docs/quyet-dinh-thanh-lap-truong-thcs-phin-ho.jpg",
+      "publishedAt": "2026-06-21",
+      "featured": false,
+      "images": [
+        {
+          "id": "quyet-dinh-thanh-lap-preview",
+          "src": "assets/docs/quyet-dinh-thanh-lap-truong-thcs-phin-ho.jpg",
+          "thumbnail": "assets/docs/quyet-dinh-thanh-lap-truong-thcs-phin-ho.jpg",
+          "alt": "Trang đầu Quyết định tách Trường PTCS Phìn Hồ thành Trường Tiểu học Phìn Hồ và Trường THCS Phìn Hồ",
+          "caption": "Preview trang đầu Quyết định 109/2006/QĐ-UBND.",
+          "width": 1200,
+          "height": 1600
+        }
+      ]
+    }
+  ]
+}

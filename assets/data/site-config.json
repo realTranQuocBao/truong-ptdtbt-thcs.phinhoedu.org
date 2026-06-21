@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "1.0.0",
+  "siteKey": "truong-ptdtbt-thcs-phin-ho",
+  "locale": "vi-VN",
+  "school": {
+    "name": "Trường PTDTBT THCS Phìn Hồ",
+    "shortName": "PTDTBT THCS Phìn Hồ",
+    "level": "Trung học cơ sở",
+    "type": "Phổ thông dân tộc bán trú",
+    "department": "Phòng Giáo dục và Đào tạo Sìn Hồ",
+    "commune": "Phìn Hồ",
+    "district": "Sìn Hồ",
+    "province": "Lai Châu",
+    "schoolYear": "2025 - 2026",
+    "description": "Cổng thông tin điện tử Trường PTDTBT THCS Phìn Hồ, phục vụ công khai hoạt động giáo dục, tài liệu nhà trường và kết nối với phụ huynh."
+  },
+  "contact": {
+    "address": "Xã Phìn Hồ, huyện Sìn Hồ, tỉnh Lai Châu",
+    "phone": "",
+    "email": "",
+    "workingHours": "Thứ Hai đến Thứ Sáu, theo lịch làm việc của nhà trường",
+    "mapUrl": ""
+  },
+  "domain": {
+    "primary": "",
+    "canonicalBaseUrl": "",
+    "deployBasePath": "/",
+    "assetBasePath": "assets/"
+  },
+  "branding": {
+    "logoText": "PH",
+    "bannerImage": "assets/images/crawled/template-11-1-9-f5a9a-ba36eb98.png",
+    "heroImage": "assets/images/hero/phin-ho-ban-tru-vung-cao.png",
+    "adImage": "assets/images/crawled/qc1-2b719f2f.png",
+    "primaryColor": "#0b3a82",
+    "secondaryColor": "#b51616",
+    "accentColor": "#c2410c",
+    "defaultOgImage": "assets/images/crawled/template-11-1-9-f5a9a-ba36eb98.png"
+  },
+  "seo": {
+    "defaultTitle": "Trường PTDTBT THCS Phìn Hồ",
+    "titleTemplate": "%s | Trường PTDTBT THCS Phìn Hồ",
+    "defaultDescription": "Tin tức, công khai giáo dục, tài liệu và thông tin liên hệ của Trường PTDTBT THCS Phìn Hồ."
+  },
+  "featuredDocumentId": "quyet-dinh-thanh-lap-truong",
+  "quickLinks": [
+    { "id": "cong-khai-thuc-don", "label": "Công khai bán trú", "href": "cong-khai.html#ban-tru" },
+    { "id": "tuyen-sinh", "label": "Tuyển sinh", "href": "tuyen-sinh.html" },
+    { "id": "tai-lieu", "label": "Kho tài liệu", "href": "tai-lieu.html" },
+    { "id": "lien-he", "label": "Liên hệ", "href": "lien-he.html" }
+  ]
+}

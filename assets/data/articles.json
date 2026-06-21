@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "1.0.0",
+  "categories": [
+    { "id": "tin-nha-truong", "label": "Tin nhà trường" },
+    { "id": "day-va-hoc", "label": "Dạy và học" },
+    { "id": "ban-tru", "label": "Bán trú" },
+    { "id": "doan-doi", "label": "Đoàn đội - phong trào" },
+    { "id": "thong-bao", "label": "Thông báo" },
+    { "id": "tuyen-sinh", "label": "Tuyển sinh" }
+  ],
+  "items": [
+    {
+      "id": "on-dinh-ne-nep-nam-hoc-2025-2026",
+      "title": "Ổn định nề nếp học tập và sinh hoạt bán trú đầu năm học",
+      "slug": "on-dinh-ne-nep-nam-hoc-2025-2026",
+      "categoryId": "tin-nha-truong",
+      "publishedAt": "2025-09-10",
+      "status": "published",
+      "featured": true,
+      "excerpt": "Nhà trường tập trung rà soát sĩ số, ổn định lớp học, nền nếp sinh hoạt bán trú và phối hợp với phụ huynh trong những tuần đầu năm học.",
+      "contentHtml": "<p>Đầu năm học, Trường PTDTBT THCS Phìn Hồ ưu tiên ổn định nền nếp học tập, sinh hoạt bán trú và công tác phối hợp giữa giáo viên chủ nhiệm, phụ huynh, học sinh. Các hoạt động được tổ chức theo hướng gọn, rõ, giúp học sinh nhanh chóng bắt nhịp với môi trường học tập ở cấp THCS.</p>"
+    },
+    {
+      "id": "ren-ky-nang-tu-quan-ban-tru",
+      "title": "Rèn kỹ năng tự quản trong khu bán trú",
+      "slug": "ren-ky-nang-tu-quan-ban-tru",
+      "categoryId": "ban-tru",
+      "publishedAt": "2025-10-03",
+      "status": "published",
+      "featured": true,
+      "excerpt": "Hoạt động bán trú không chỉ chăm lo nơi ăn, chốn ở mà còn giúp học sinh rèn tính tự lập, kỷ luật và tinh thần chia sẻ.",
+      "contentHtml": "<p>Với đặc thù trường phổ thông dân tộc bán trú, nhà trường coi việc rèn kỹ năng sống, tự quản và giữ gìn vệ sinh chung là một phần quan trọng trong giáo dục học sinh. Giáo viên phụ trách bán trú theo dõi nền nếp hằng ngày, đồng thời hướng dẫn học sinh biết chăm sóc bản thân và hỗ trợ bạn bè.</p>"
+    },
+    {
+      "id": "sinh-hoat-chuyen-mon-theo-huong-doi-moi",
+      "title": "Sinh hoạt chuyên môn theo hướng đổi mới phương pháp dạy học",
+      "slug": "sinh-hoat-chuyen-mon-theo-huong-doi-moi",
+      "categoryId": "day-va-hoc",
+      "publishedAt": "2025-11-15",
+      "status": "published",
+      "featured": false,
+      "excerpt": "Các tổ chuyên môn trao đổi bài dạy, điều chỉnh hoạt động học tập và quan tâm hơn đến khả năng tiếp thu của học sinh vùng cao.",
+      "contentHtml": "<p>Sinh hoạt chuyên môn được triển khai theo hướng thiết thực, bám sát lớp học và điều kiện thực tế của học sinh. Nhà trường khuyến khích giáo viên chia sẻ học liệu, kinh nghiệm tổ chức hoạt động nhóm và cách hỗ trợ học sinh còn gặp khó khăn trong học tập.</p>"
+    },
+    {
+      "id": "hoat-dong-doi-gan-voi-ren-luyen-nep-song",
+      "title": "Hoạt động Đội gắn với rèn luyện nếp sống học đường",
+      "slug": "hoat-dong-doi-gan-voi-ren-luyen-nep-song",
+      "categoryId": "doan-doi",
+      "publishedAt": "2025-12-20",
+      "status": "published",
+      "featured": false,
+      "excerpt": "Các hoạt động tập thể được tổ chức vừa sức, giúp học sinh mạnh dạn hơn, biết hợp tác và có trách nhiệm với tập thể.",
+      "contentHtml": "<p>Thông qua sinh hoạt Đội, lao động vệ sinh, văn nghệ, thể thao và các hoạt động trải nghiệm, học sinh được rèn luyện tinh thần kỷ luật, ý thức giữ gìn môi trường học đường và sự tự tin khi tham gia tập thể.</p>"
+    },
+    {
+      "id": "thong-tin-tuyen-sinh-dau-cap",
+      "title": "Thông tin tuyển sinh đầu cấp sẽ được cập nhật theo kế hoạch của cấp có thẩm quyền",
+      "slug": "thong-tin-tuyen-sinh-dau-cap",
+      "categoryId": "tuyen-sinh",
+      "publishedAt": "2026-05-20",
+      "status": "published",
+      "featured": true,
+      "excerpt": "Phụ huynh theo dõi website hoặc liên hệ trực tiếp nhà trường để được hướng dẫn hồ sơ khi có kế hoạch tuyển sinh năm học mới.",
+      "contentHtml": "<p>Nhà trường sẽ cập nhật thông tin tuyển sinh lớp 6 khi có kế hoạch chính thức. Phụ huynh cần chuẩn bị giấy tờ học sinh theo hướng dẫn của trường tiểu học nơi học sinh hoàn thành chương trình và thông báo của địa phương.</p>"
+    }
+  ]
+}

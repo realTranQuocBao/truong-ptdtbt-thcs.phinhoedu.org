@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "1.0.0",
+  "categories": [
+    { "id": "van-ban-quan-trong", "label": "Văn bản quan trọng" },
+    { "id": "cong-khai", "label": "Công khai" },
+    { "id": "ke-hoach", "label": "Kế hoạch" },
+    { "id": "bieu-mau", "label": "Biểu mẫu" }
+  ],
+  "items": [
+    {
+      "id": "quyet-dinh-thanh-lap-truong",
+      "title": "Quyết định tách Trường PTCS Phìn Hồ thành Trường Tiểu học Phìn Hồ và Trường THCS Phìn Hồ",
+      "categoryId": "van-ban-quan-trong",
+      "documentType": "founding-decision",
+      "file": "assets/docs/quyet-dinh-thanh-lap-truong-thcs-phin-ho.pdf",
+      "previewImage": "assets/docs/quyet-dinh-thanh-lap-truong-thcs-phin-ho.jpg",
+      "issuedBy": "UBND huyện Sìn Hồ",
+      "decisionNumber": "109/2006/QĐ-UBND",
+      "issuedAt": "2006-08-21",
+      "publishedAt": "2026-06-21",
+      "description": "Văn bản pháp lý xác lập việc tách Trường Phổ thông cơ sở xã Phìn Hồ thành hai trường công lập, trong đó có Trường THCS Phìn Hồ.",
+      "pinned": true,
+      "showOnHome": true,
+      "showOnAbout": true,
+      "showOnFooter": true,
+      "downloadable": true,
+      "fileMeta": {
+        "mimeType": "application/pdf",
+        "sizeBytes": 903569,
+        "pageCount": 4
+      },
+      "verified": true
+    },
+    {
+      "id": "cong-khai-thong-tin-co-so-giao-duc",
+      "title": "Công khai thông tin chung về cơ sở giáo dục",
+      "categoryId": "cong-khai",
+      "documentType": "public-disclosure",
+      "schoolYear": "2025 - 2026",
+      "issuedAt": "",
+      "issuedBy": "Trường PTDTBT THCS Phìn Hồ",
+      "description": "Mục dữ liệu dành cho thông tin chung của nhà trường; sẽ cập nhật file sau khi được rà soát và phê duyệt.",
+      "file": "",
+      "downloadable": false,
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "cong-khai-thuc-don-ban-tru",
+      "title": "Công khai thực đơn và chế độ bán trú",
+      "categoryId": "cong-khai",
+      "documentType": "public-disclosure",
+      "schoolYear": "2025 - 2026",
+      "issuedAt": "",
+      "issuedBy": "Trường PTDTBT THCS Phìn Hồ",
+      "description": "Nhóm tài liệu công khai về bữa ăn, sinh hoạt và điều kiện bán trú của học sinh.",
+      "file": "",
+      "downloadable": false,
+      "reviewStatus": "pending"
+    },
+    {
+      "id": "ke-hoach-nam-hoc",
+      "title": "Kế hoạch năm học",
+      "categoryId": "ke-hoach",
+      "documentType": "plan",
+      "schoolYear": "2025 - 2026",
+      "issuedAt": "",
+      "issuedBy": "Trường PTDTBT THCS Phìn Hồ",
+      "description": "Khu vực cập nhật kế hoạch năm học, kế hoạch chuyên môn và các hoạt động trọng tâm.",
+      "file": "",
+      "downloadable": false,
+      "reviewStatus": "pending"
+    }
+  ]
+}
