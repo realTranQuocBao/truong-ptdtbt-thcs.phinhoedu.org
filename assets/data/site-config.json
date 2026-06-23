@@ -16,8 +16,8 @@
   },
   "contact": {
     "address": "Xã Phìn Hồ, huyện Sìn Hồ, tỉnh Lai Châu",
-    "phone": "",
-    "email": "",
+    "phone": "-",
+    "email": "hieutruong@truong-ptdtbt-thcs.phinhoedu.org",
     "workingHours": "Thứ Hai đến Thứ Sáu, theo lịch làm việc của nhà trường",
     "mapUrl": ""
   },
@@ -44,9 +44,25 @@
   },
   "featuredDocumentId": "quyet-dinh-thanh-lap-truong",
   "quickLinks": [
-    { "id": "cong-khai-thuc-don", "label": "Công khai bán trú", "href": "cong-khai.html#ban-tru" },
-    { "id": "tuyen-sinh", "label": "Tuyển sinh", "href": "tuyen-sinh.html" },
-    { "id": "tai-lieu", "label": "Kho tài liệu", "href": "tai-lieu.html" },
-    { "id": "lien-he", "label": "Liên hệ", "href": "lien-he.html" }
+    {
+      "id": "cong-khai-thuc-don",
+      "label": "Công khai bán trú",
+      "href": "cong-khai.html#ban-tru"
+    },
+    {
+      "id": "tuyen-sinh",
+      "label": "Tuyển sinh",
+      "href": "tuyen-sinh.html"
+    },
+    {
+      "id": "tai-lieu",
+      "label": "Kho tài liệu",
+      "href": "tai-lieu.html"
+    },
+    {
+      "id": "lien-he",
+      "label": "Liên hệ",
+      "href": "lien-he.html"
+    }
   ]
 }
